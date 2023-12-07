@@ -1,0 +1,3 @@
+<User Name> <num> <Phrase> 
+bob                  5                    Go go power rangers
+rovc                 2                    Bobby dammit
